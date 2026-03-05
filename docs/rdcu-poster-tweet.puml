@@ -1,0 +1,11 @@
+@startuml
+
+title RCU Poster Tweet
+actor "User" as U
+par
+participant ":Tweet" as Tweet
+
+U -> Tweet: Create Tweet
+Tweet -> U: Display Tweet
+
+@enduml
