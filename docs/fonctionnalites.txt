@@ -1,7 +1,0 @@
-1. Les Fonctionnalités
-    
-✅ Poster un tweet
-✅ Afficher la liste des tweets
-✅ Liker un tweet
-✅ Supprimer un tweet
-✅ Compter les caractères (280 max)
